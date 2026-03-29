@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Science">
 
 ## 👋 Salve!
@@ -78,6 +76,8 @@
   <a href="https://www.pumbadev.com" alt="Site Pessoal">
   <img src="https://img.shields.io/badge/Site_Pessoal-6B16ED?style=flat-square&link=https://www.pumbadev.com"/></a>
 </p>  
+
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
   
 <details>	
   <summary><b>⚡ GitHubs Stats</b></summary>
