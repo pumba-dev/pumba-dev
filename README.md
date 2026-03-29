@@ -77,31 +77,6 @@
   <img src="https://img.shields.io/badge/Site_Pessoal-6B16ED?style=flat-square&link=https://www.pumbadev.com"/></a>
 </p>  
 
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-  
-<details>	
-  <summary><b>⚡ GitHubs Stats</b></summary>
-   
-  <br />
+---
 
- <table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-   
-</details>
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
